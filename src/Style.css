@@ -67,6 +67,7 @@
   }
   
   .neon-button:hover,
+
   .neon-button:focus {
     color: var(--clr-bg);
     text-shadow: none;
