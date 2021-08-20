@@ -80,6 +80,7 @@
   }
 
   .neon-button:hover::after,
+
   .neon-button:focus::after {
     opacity: 1;
   }
